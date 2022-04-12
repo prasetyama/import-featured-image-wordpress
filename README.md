@@ -7,4 +7,5 @@ python manage.py shell_plus
 
 in shell plus:
 > from apps.samples import migrate
->  migrate()
+
+ migrate()
